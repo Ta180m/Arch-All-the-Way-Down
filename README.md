@@ -1,6 +1,6 @@
 # Arch All the Way Down
 
-### Create nested Docker containers!
+#### Ever wanted to run Arch inside Arch inside Arch inside Arch? Well, now you can!
 
 ## Usage
 
