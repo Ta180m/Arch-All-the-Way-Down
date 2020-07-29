@@ -2,6 +2,8 @@
 
 #### Ever wanted to run Arch inside Arch inside Arch inside Arch? Well, now you can!
 
+![Nested Arch](https://raw.githubusercontent.com/Ta180m/Arch-All-the-Way-Down/master/nested-arch.png)
+
 ## Usage
 
 ```docker pull ta180m/arch-all-the-way-down```
