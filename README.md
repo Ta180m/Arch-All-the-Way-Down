@@ -8,10 +8,12 @@
 
 ## Usage
 
-```docker pull ta180m/arch-all-the-way-down```
+It's as easy as:
 
-```docker run --privileged -it -e DEPTH=[DEPTH OF NESTED CONTAINERS] ta180m/arch-all-the-way-down```
+```sh
+docker run --privileged -it -e DEPTH=[DEPTH OF NESTED CONTAINERS] ta180m/arch-all-the-way-down
+```
 
-Remember to replace ```[DEPTH OF NESTED CONTAINERS]``` with your intended nesting depth.
+Remember to replace `[DEPTH OF NESTED CONTAINERS]` with your intended nesting depth.
 
-You now have ```[DEPTH OF NESTED CONTAINERS]``` nested Arch containers!
+You now have `[DEPTH OF NESTED CONTAINERS]` nested Arch containers!
